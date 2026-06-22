@@ -1,0 +1,13 @@
+{
+  "name": "oriz-rbi-rates-api",
+  "version": "0.1.0",
+  "description": "RBI policy rates — repo, reverse-repo, bank rate, WACR, MCLR.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

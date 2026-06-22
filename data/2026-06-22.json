@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-22",
+  "source": "rbi",
+  "as_of": "2026-06-22",
+  "rates": {
+    "repo": null,
+    "reverse_repo": null,
+    "bank_rate": null,
+    "wacr": null,
+    "mclr_1y": null
+  }
+}

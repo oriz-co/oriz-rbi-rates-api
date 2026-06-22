@@ -1,0 +1,10 @@
+{
+  "name": "oriz-rbi-rates-api",
+  "short_name": "rbi-rates",
+  "description": "RBI policy rates — repo, reverse-repo, bank rate, WACR, MCLR.",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": []
+}
